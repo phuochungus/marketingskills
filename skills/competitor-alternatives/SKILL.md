@@ -218,7 +218,8 @@ Do not publish competitor content without source-backed evidence.
 
 ### Ongoing Updates
 
-- **Quarterly**: Verify pricing, check for major feature changes
+- **Authoritative SLA for active pages**: Re-verify pricing and feature claims at least every 30 days before publication or republishing.
+- **Quarterly (non-active pages only)**: Run a lighter check for major competitor changes on archived, low-traffic, or non-priority pages.
 - **When notified**: Customer mentions competitor change
 - **Annually**: Full refresh of all competitor data
 
